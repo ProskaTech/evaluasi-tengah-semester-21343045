@@ -1,5 +1,5 @@
-21343060_Farraz Hadyan
-0. Pada Pertemuan kali ini merupakan Ujian Tengah Semester, kita diminta membuat program sesuai dengan tampilan dan bentuk soal yang telah ditentukan. Soal yang diberikan sebanyak 3 buah dan berikut penjelasannya :
+##21343060_Farraz Hadyan
+Pada Pertemuan kali ini merupakan Ujian Tengah Semester, kita diminta membuat program sesuai dengan tampilan dan bentuk soal yang telah ditentukan. Soal yang diberikan sebanyak 3 buah dan berikut penjelasannya :
 
 1. Pada program soal no 1 kita diminta membuat tampilan sesuai dengan soal. Pada soal ini program yang kita gunakan adalah bentuk perulangan bersarang (Nested Loop) yang dimana pada program saya menggunakan perulangan bersarang FOR. Pada program terdapat 2 variabel yaitu i dan j yang akan kita gunakan untuk perulangan. Untuk perulangan FORnya kita bisa menyesuaikan unkapan atau kondisi sesuai dengan tampilan yang diminta pada soal.
 
